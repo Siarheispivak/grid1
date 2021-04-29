@@ -83,8 +83,8 @@ div p {
 a {
    text-decoration: none;
 }
-a:hover {
-   /* color: darkmagenta;почему не срабатывает? */
+p:hover {
+   color: darkmagenta;
    font-size: 20px;
 }
 div {
